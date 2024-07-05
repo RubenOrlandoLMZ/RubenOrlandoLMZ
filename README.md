@@ -1,0 +1,48 @@
+- Inglês:
+- 👋 Hi, I’m @RubenOrlandoLMZ
+- 👀 I’m interested in learning and developing front-end projects based on React, JavaScript, and Tailwind.
+- 🌱 I’m currently learning Tailwind, Python, JavaScript, React, Use Cases, TypeScript, among others.
+- 💞️ I’m looking to collaborate on software development and web pages for the market to start profiting from my studies.
+- 📫 How to reach me: Email - rubenorlandolmj@gmail.com; Social media - @orlando_manz4nares
+- ⚡ Fun fact: I have never worked with programming or had any contact with this world until I started college.
+- I spent my life learning about martial arts, and I am well aware that I have a lot of work ahead of me if I want to enter the job market!
+- Português(Brasil):
+- 👋 Oi, eu sou @RubenOrlandoLMZ
+- 👀 Estou interessado em aprender e desenvolver projetos front-end baseados em React, JavaScript e Tailwind.
+- 🌱 Atualmente estou aprendendo Tailwind, Python, JavaScript, React, Casos de Uso, TypeScript, entre outros.
+- 💞️ Estou procurando colaborar no desenvolvimento de softwares e páginas para o mercado a fim de começar a lucrar com meus estudos.
+- 📫 Como me encontrar: Email - rubenorlandolmj@gmail.com; Redes sociais - @orlando_manz4nares
+- ⚡ Curiosidade: Nunca trabalhei com programação nem tive contato com este mundo até entrar na faculdade.
+- Passei a vida aprendendo sobre artes marciais e tenho bastante ciência de que tenho muito trabalho pela frente se quiser entrar no mercado de trabalho!
+- Espanhol:
+- 👋 Hola, soy @RubenOrlandoLMZ
+- 👀 Estoy interesado en aprender y desarrollar proyectos front-end basados en React, JavaScript y Tailwind.
+- 🌱 Actualmente estoy aprendiendo Tailwind, Python, JavaScript, React, Casos de Uso, TypeScript, entre otros.
+- 💞️ Estoy buscando colaborar en el desarrollo de software y páginas web para el mercado con el fin de comenzar a lucrar con mis estudios.
+- 📫 Cómo contactarme: Email - rubenorlandolmj@gmail.com; Redes sociales - @orlando_manz4nares
+- ⚡ Curiosidad: Nunca he trabajado con programación ni he tenido contacto con este mundo hasta que comencé la universidad.
+- Pasé mi vida aprendiendo sobre artes marciales y soy muy consciente de que tengo mucho trabajo por delante si quiero entrar en el mercado laboral.
+- Francês:
+- 👋 Bonjour, je suis @RubenOrlandoLMZ
+- 👀 Je suis intéressé par l'apprentissage et le développement de projets front-end basés sur React, JavaScript et Tailwind.
+- 🌱 J'apprends actuellement Tailwind, Python, JavaScript, React, Cas d'Usage, TypeScript, entre autres.
+- 💞️ Je cherche à collaborer au développement de logiciels et de pages web pour le marché afin de commencer à profiter de mes études.
+- 📫 Comment me contacter : Email - rubenorlandolmj@gmail.com ; Réseaux sociaux - @orlando_manz4nares
+- ⚡ Fait amusant : Je n'ai jamais travaillé avec la programmation ni eu de contact avec ce monde jusqu'à ce que je commence l'université.
+- J'ai passé ma vie à apprendre les arts martiaux et je suis bien conscient que j'ai beaucoup de travail devant moi si je veux entrer sur le marché du travail !
+- Alemão:
+- 👋 Hallo, ich bin @RubenOrlandoLMZ
+- 👀 Ich interessiere mich für das Lernen und Entwickeln von Front-End-Projekten auf Basis von React, JavaScript und Tailwind.
+- 🌱 Derzeit lerne ich Tailwind, Python, JavaScript, React, Anwendungsfälle, TypeScript und andere.
+- 💞️ Ich suche nach Möglichkeiten zur Zusammenarbeit bei der Softwareentwicklung und bei Webseiten für den Markt, um von meinen Studien zu profitieren.
+- 📫 Wie Sie mich erreichen können: E-Mail - rubenorlandolmj@gmail.com; Soziale Medien - @orlando_manz4nares
+- ⚡ Interessante Tatsache: Ich habe nie mit Programmierung gearbeitet oder Kontakt mit dieser Welt gehabt, bis ich mit dem Studium begonnen habe.
+- Ich habe mein Leben damit verbracht, Kampfkünste zu lernen, und ich bin mir sehr bewusst, dass ich viel Arbeit vor mir habe, wenn ich in den Arbeitsmarkt einsteigen möchte!
+- Italiano:
+- 👋 Ciao, sono @RubenOrlandoLMZ
+- 👀 Sono interessato ad imparare e sviluppare progetti front-end basati su React, JavaScript e Tailwind.
+- 🌱 Attualmente sto imparando Tailwind, Python, JavaScript, React, Casi d'Uso, TypeScript, tra gli altri.
+- 💞️ Sto cercando di collaborare allo sviluppo di software e pagine web per il mercato al fine di iniziare a guadagnare dai miei studi.
+- 📫 Come contattarmi: Email - rubenorlandolmj@gmail.com; Social media - @orlando_manz4nares
+- ⚡ Curiosità: Non ho mai lavorato con la programmazione né avuto contatti con questo mondo fino a quando non ho iniziato l'università.
+- Ho passato la vita imparando le arti marziali e sono ben consapevole che ho molto lavoro da fare se voglio entrare nel mercato del lavoro!
